@@ -1,4 +1,11 @@
 • What is a gitignore ?le and what should it include for a Java project? 
+A: The gitignore is a file in the newly created git repository that has the extensions of the files that does not require to be present in the source control.
+Otherwise, it will keep throwing error messages about the files that are not uploaded.
+
 • What does fast-forward in Git mean? 
-• Why should you have di?erent branches? 
+A: The git fast forward is the process that happens when we merge the branch that is quite ahead of the branch that is supposed to be checked out.
+
+• Why should you have different branches? 
+The different branch 
+
 • In a project how many remote Git repositories do you usually have?
